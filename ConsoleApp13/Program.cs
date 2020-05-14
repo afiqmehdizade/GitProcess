@@ -9,6 +9,8 @@ namespace ConsoleApp13
             Console.WriteLine("Hello World!");
             Console.WriteLine("Added by testBranch");
             Console.WriteLine("testmaster");
+
+            char final = 'd';
         }
     }
 }
